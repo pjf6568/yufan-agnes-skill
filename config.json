@@ -1,0 +1,15 @@
+{
+  "agnes_api": {
+    "base_url": "https://apihub.agnes-ai.com/v1",
+    "image_api_key": "",
+    "video_api_key": ""
+  },
+  "upload_service": {
+    "default": "tmplink",
+    "imgbb_api_key": "",
+    "smms_api_key": ""
+  },
+  "output": {
+    "directory": ""
+  }
+}

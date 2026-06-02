@@ -1,0 +1,14 @@
+{
+  "name": "yufan-agnes-bridge",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Local image to URL bridge for yufan-Agnes skill",
+  "main": "src/media.js",
+  "bin": {
+    "agnes-bridge": "bin/agnes-bridge.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {}
+}

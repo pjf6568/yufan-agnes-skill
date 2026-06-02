@@ -1,0 +1,15 @@
+{
+  "agnes_api": {
+    "base_url": "https://apihub.agnes-ai.com/v1",
+    "image_api_key": "YOUR_IMAGE_API_KEY_HERE",
+    "video_api_key": "YOUR_VIDEO_API_KEY_HERE"
+  },
+  "upload_service": {
+    "default": "tmplink",
+    "imgbb_api_key": "YOUR_IMGBB_API_KEY_HERE (optional, get from https://imgbb.com)",
+    "smms_api_key": "YOUR_SMMS_API_KEY_HERE (optional, get from https://sm.ms)"
+  },
+  "output": {
+    "directory": "YOUR_OUTPUT_DIRECTORY_HERE (e.g., /Users/xxx/Desktop/output)"
+  }
+}
